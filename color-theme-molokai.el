@@ -8,7 +8,7 @@
   (require 'color-theme))
 
 (defun color-theme-molokai ()
-  "Example theme. Carbon copy of color-theme-gnome contributed by Jonadab."
+  "Color theme based on the Molokai color scheme for vim."
   (interactive)
   (color-theme-install
    '(color-theme-molokai
