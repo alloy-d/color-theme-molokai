@@ -23,11 +23,13 @@
      (region ((t (:background "#403D3D"))))
      (underline ((t (:underline t))))
      (minibuffer-prompt ((t (:foreground "#66D9EF"))))
-     (mode-line ((t (:foreground "#BCBCBC" :background "#232526"))))
-     (mode-line-buffer-id ((t (:foreground "#BCBCBC" :background "#232526"))))
-     (mode-line-inactive ((t (:foreground "#BCBCBC" :background "#232526"))))
-     (mode-line-mousable ((t (:foreground "#BCBCBC" :background "#232526"))))
-     (mode-line-mousable-minor-mode ((t (:foreground "#BCBCBC" :background "#232526"))))
+     (mode-line ((t (:foreground "#BCBCBC" :background "#000000"
+                                 :box (:line-width 1 :color "#000000" :style released-button)))))
+     (mode-line-buffer-id ((t (:foreground "#BCBCBC" :background "#000000" :weight semi-bold))))
+     (mode-line-inactive ((t (:foreground "#BCBCBC" :background "#000000"
+                                          :box (:line-width 1 :color "#232526")))))
+     (mode-line-mousable ((t (:foreground "#BCBCBC" :background "#000000"))))
+     (mode-line-mousable-minor-mode ((t (:foreground "#BCBCBC" :background "#000000"))))
      (font-lock-builtin-face ((t (:foreground "#A6E22E"))))
      (font-lock-comment-face ((t (:foreground "#465457" :slant italic))))
      (font-lock-comment-delimiter-face ((t (:foreground "#465457" :slant italic))))
