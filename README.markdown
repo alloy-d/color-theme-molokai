@@ -55,6 +55,10 @@ all possible use cases: someone is bound to find something that isn't
 themed and looks atrocious.  If you are that someone, please let me
 know!
 
+If the cool, dark background doesn't suit you, you might try the
+warmer variant
+[almonst-monokai](http://github.com/lut4rp/almost-monokai/).
+
 
 Anything else you want to tell me?
 ----------------------------------
