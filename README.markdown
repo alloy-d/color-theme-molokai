@@ -1,9 +1,11 @@
 "Molokai"?  Like "Monokai"?
 ---------------------------
 
-Indeed.  This color theme is based on Tomas Restrepo's Molokai
-color scheme for Vim, which is based on a darker variant by Hamish
-Stuart Macpherson of the Monokai theme for TextMate.
+Indeed.  This color theme is based on Tomas Restrepo's [Molokai color
+scheme for Vim](http://winterdom.com/2008/08/molokaiforvim), which is
+based on a darker variant by Hamish Stuart Macpherson of the [Monokai
+theme](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) by
+[Wimer Hazenberg](http://www.molokai.nl) for TextMate.
 
 
 That means nothing to me.
