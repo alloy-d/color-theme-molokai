@@ -24,6 +24,8 @@
      (italic ((t (:slant italic))))
      (region ((t (:background "#403D3D"))))
      (underline ((t (:underline t))))
+     (css-selector ((t (:foreground "#F92672"))))
+     (css-property ((t (:foreground "#66D9EF"))))
      (escape-glyph ((t (:foreground "#E6DB74"))))
      (minibuffer-prompt ((t (:foreground "#66D9EF"))))
      (mode-line ((t (:foreground "#F8F8F2" :background "#000000"
