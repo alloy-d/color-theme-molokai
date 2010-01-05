@@ -26,6 +26,7 @@ Here are some things that *won't* look funny:
  * Isearch.
  * Icomplete.
  * MuMaMo.
+ * `diff`s.
 
 
 Cool!  How do I use it?
