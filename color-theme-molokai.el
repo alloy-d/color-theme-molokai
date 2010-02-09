@@ -75,3 +75,5 @@
      (show-paren-match-face ((t (:foreground "#000000" :background "#FD971F"))))
      (show-paren-mismatch-face ((t (:foreground "#960050" :background "#1E0010"))))
      (widget-inactive-face ((t (:background "#ff0000")))))))
+
+(provide 'color-theme-molokai)
