@@ -26,6 +26,7 @@ Here are some things that *won't* look funny:
  * Isearch.
  * Icomplete.
  * MuMaMo.
+ * Outline-mode.
  * `diff`s.
 
 
