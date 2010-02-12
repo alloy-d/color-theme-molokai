@@ -27,6 +27,7 @@ Here are some things that *won't* look funny:
  * Icomplete.
  * MuMaMo.
  * Outline-mode.
+ * [Markdown-mode](http://jblevins.org/projects/markdown-mode/).
  * `diff`s.
 
 
