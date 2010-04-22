@@ -56,7 +56,7 @@
      (font-lock-regexp-grouping-construct ((t (:weight bold))))
      (font-lock-string-face ((t (:foreground "#E6DB74"))))
      (font-lock-type-face ((t (:foreground "#66D9EF"))))
-     (font-lock-variable-name-face ((t (:foreground "#F8F8F2"))))
+     (font-lock-variable-name-face ((t (:foreground "#F92672"))))
      (font-lock-warning-face ((t (:foreground "#FFFFFF"
                                               :background "#333333"))))
      (fringe ((t (:background "#232526"))))
