@@ -101,6 +101,11 @@
      (secondary-selection ((t (:background "#272822"))))
      (show-paren-match-face ((t (:foreground "#000000" :background "#FD971F"))))
      (show-paren-mismatch-face ((t (:foreground "#960050" :background "#1E0010"))))
-     (widget-inactive-face ((t (:background "#ff0000")))))))
+     (widget-inactive-face ((t (:background "#ff0000"))))
+     (woman-addition ((t (:foreground "#AE81FF"))))
+     (woman-bold ((t (:foreground "#F92672"))))
+     (woman-italic ((t (:foreground "#A6E22E"))))
+     (woman-unknown ((t (:foreground "#66D9EF"))))
+     )))
 
 (provide 'color-theme-molokai)
