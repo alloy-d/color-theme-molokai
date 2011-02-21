@@ -1,4 +1,4 @@
-;; Author: Adam Lloyd <lloyda2@rpi.edu>
+;; Author: Adam Lloyd <adam@alloy-d.net>
 ;;
 ;; Note: Based on the molokai theme for vim by Tomas Restrepo, which
 ;; is in turn based on the monokai theme for textmate by Wimer
