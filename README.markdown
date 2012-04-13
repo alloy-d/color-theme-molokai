@@ -37,10 +37,8 @@ Cool!  How do I use it?
 Save the [color-theme-molokai.el](tip/color-theme-molokai.el) file to
 `YOUR_EMACS_PLUGIN_DIRECTORY`, then add the following to your `.emacs`:
 
-<pre><code>
-(load "~/YOUR_EMACS_PLUGIN_DIRECTORY/color-theme-molokai.el")
-(color-theme-molokai)
-</code></pre>
+    (load "~/YOUR_EMACS_PLUGIN_DIRECTORY/color-theme-molokai.el")
+    (color-theme-molokai)
 
 
 Do I need anything special?
