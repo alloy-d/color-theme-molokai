@@ -34,7 +34,7 @@ Here are some things that *won't* look funny:
 Cool!  How do I use it?
 -----------------------
 
-Save the [color-theme-molokai.el](tip/color-theme-molokai.el) file to
+Save the [color-theme-molokai.el](https://github.com/alloy-d/color-theme-molokai/blob/master/color-theme-molokai.el) file to
 `YOUR_EMACS_PLUGIN_DIRECTORY`, then add the following to your `.emacs`:
 
     (load "~/YOUR_EMACS_PLUGIN_DIRECTORY/color-theme-molokai.el")
