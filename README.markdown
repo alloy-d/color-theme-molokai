@@ -58,7 +58,7 @@ know!
 
 If the cool, dark background doesn't suit you, you might try the
 warmer variant
-[almonst-monokai](http://github.com/lut4rp/almost-monokai/).
+[almost-monokai](http://github.com/lut4rp/almost-monokai/).
 
 
 Anything else you want to tell me?
