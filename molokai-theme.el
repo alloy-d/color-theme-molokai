@@ -83,7 +83,7 @@
  '(icompletep-nb-candidates ((t (:foreground "#AE81FF"))))
  '(ido-first-match ((t (:foreground "#A6E22E" :weight bold))))
  '(ido-only-match ((t (:foreground "#A6E22E"))))
- '(ido-subdir ((t (:foreground "#F92672"))))
+ '(ido-subdir ((t (:foreground "#FD971F"))))
  '(isearch ((t (:foreground "#C4BE89" :background "#000000"))))
  '(isearch-fail ((t (:foreground "#FFFFFF" :background "#333333"))))
  '(lazy-highlight ((t (:foreground "#465457" :background "#000000"))))
