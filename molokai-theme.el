@@ -31,7 +31,7 @@
  'molokai
 
  '(default ((t (:background "#1B1D1E" :foreground "#F8F8F2"))))
- '(cursor ((t (:foregound "#F8F8F0"))))
+ '(cursor ((t (:background "#F8F8F0"))))
 
  '(bold ((t (:weight bold))))
  '(bold-italic ((t (:weight bold :slant italic))))
